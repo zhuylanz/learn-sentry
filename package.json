@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@sentry/node": "^5.4.3"
+  },
+  "name": "learn-sentry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zhuylanz/learn-sentry.git",
+  "author": "Lan Nguyen <zhuylanz@gmail.com>",
+  "license": "MIT"
+}
